@@ -1,6 +1,6 @@
 # DevSecOps CI/CD Pipeline on Amazon EKS
 
-![CI](https://github.com/YOUR_GITHUB_USERNAME/devsecops-eks-pipeline/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/aneshailam/devsecops-eks-pipeline/actions/workflows/ci.yml/badge.svg)
 
 A CI/CD pipeline where every push passes automated quality and security gates before it is deployed to a multi-node Amazon EKS cluster.
 
