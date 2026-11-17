@@ -1,0 +1,8 @@
+grafana:
+  service:
+    type: LoadBalancer
+  adminPassword: CHANGE_ME     # set your own; do not commit the real one
+
+prometheus:
+  prometheusSpec:
+    retention: 7d
