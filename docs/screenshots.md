@@ -8,4 +8,4 @@ Add your own screenshots to this folder and list them here, for example:
 - `eks-pods.png` - `kubectl get pods` on the EKS cluster
 - `grafana-dashboard.png` - Prometheus and Grafana monitoring
 
-![Jenkins pipeline](jenkins-pipeline-success.png)
+![Jenkins pipeline](jenkins-pipeline.png.jpeg)
